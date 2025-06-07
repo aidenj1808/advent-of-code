@@ -1,16 +1,16 @@
 # [Advent Of Code](https://adventofcode.com/)
 My Advent of Code solutions.
 <br />
-# About Advent of Code
+# About
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other.
 <br />
 # Usage
 Programs can be run by entering in puzzle inputs to designated in.txt files in input directory in order to get answers to the puzzles.
 <br />
-# Support Advent of Code
+# Support
 If you'd like to support Advent of Code, you can do so indirectly by helping to [Share on twitter](https://twitter.com/intent/tweet?text=Daily+programming+puzzles+at+Advent+of+Code&url=https%3A%2F%2Fadventofcode%2Ecom%2F&related=ericwastl&hashtags=AdventOfCode) with others, or directly via [PayPal or Coinbase](https://adventofcode.com/2023/support).
 <br />
-# Credits Advent of Code
+# Credits
 Puzzles, Code, & Design: [Eric Wastl](http://was.tl/) <br />
 <br />
 Beta Testing:
